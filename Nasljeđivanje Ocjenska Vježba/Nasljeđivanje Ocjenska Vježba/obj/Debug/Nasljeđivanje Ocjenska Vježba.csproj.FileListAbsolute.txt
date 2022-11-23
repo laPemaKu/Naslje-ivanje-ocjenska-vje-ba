@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\Nasljeđivanje Ocjenska Vježba\Nasljeđivanje Ocjenska Vježba\bin\Debug\Nasljeđivanje Ocjenska Vježba.exe.config
+C:\Users\ucenik\source\repos\Nasljeđivanje Ocjenska Vježba\Nasljeđivanje Ocjenska Vježba\bin\Debug\Nasljeđivanje Ocjenska Vježba.exe
+C:\Users\ucenik\source\repos\Nasljeđivanje Ocjenska Vježba\Nasljeđivanje Ocjenska Vježba\bin\Debug\Nasljeđivanje Ocjenska Vježba.pdb
+C:\Users\ucenik\source\repos\Nasljeđivanje Ocjenska Vježba\Nasljeđivanje Ocjenska Vježba\obj\Debug\Nasljeđivanje Ocjenska Vježba.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Nasljeđivanje Ocjenska Vježba\Nasljeđivanje Ocjenska Vježba\obj\Debug\Nasljeđivanje Ocjenska Vježba.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Nasljeđivanje Ocjenska Vježba\Nasljeđivanje Ocjenska Vježba\obj\Debug\Nasljeđivanje Ocjenska Vježba.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Nasljeđivanje Ocjenska Vježba\Nasljeđivanje Ocjenska Vježba\obj\Debug\Nasljeđivanje Ocjenska Vježba.exe
+C:\Users\ucenik\source\repos\Nasljeđivanje Ocjenska Vježba\Nasljeđivanje Ocjenska Vježba\obj\Debug\Nasljeđivanje Ocjenska Vježba.pdb
